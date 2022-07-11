@@ -1,0 +1,8 @@
+name: MiniGame
+version: '${project.version}'
+main: com.cybergaming424.minigame.MiniGame
+api-version: 1.18
+authors: [ CyberGaming424 ]
+description: MiniGame Test
+commands:
+  arena:
